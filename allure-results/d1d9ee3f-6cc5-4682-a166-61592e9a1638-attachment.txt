@@ -1,2 +1,0 @@
-Login successful. Redirected to the dashboard.
-Logout successful. Redirected to the login page.

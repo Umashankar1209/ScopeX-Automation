@@ -1,1 +1,0 @@
-Login successful. Redirected to the dashboard.
